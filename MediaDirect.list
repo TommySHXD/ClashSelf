@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,apnews.com
 # MBP
 DOMAIN-SUFFIX,live.streamtheworld.com
 
+#Dating
+
 
 # AbemaTV
 USER-AGENT,AbemaTV*
