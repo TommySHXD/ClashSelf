@@ -8,7 +8,9 @@ DOMAIN-KEYWORD,apnews
 
 # Radio
 DOMAIN-SUFFIX,publicradio.org
+DOMAIN-KEYWORD,publicradio
 DOMAIN-SUFFIX,radiobookmark.com
+DOMAIN-KEYWORD,radiobookmark
 
 #Hotel
 DOMAIN-SUFFIX,ihg.com
