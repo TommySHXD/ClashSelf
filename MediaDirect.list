@@ -1,6 +1,10 @@
 # 名称：国外直连列表
 # 内容：自定义国外直联媒体
 
+# Others
+DOMAIN-SUFFIX,wendougee.com
+DOMAIN-KEYWORD,wendougee
+
 # AP News
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-KEYWORD,apnews
