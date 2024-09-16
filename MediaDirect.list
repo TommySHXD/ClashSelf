@@ -30,8 +30,8 @@ DOMAIN-SUFFIX,hyatt.com
 DOMAIN-SUFFIX,hilton.com
 DOMAIN-SUFFIX,hiltonapi.com
 DOMAIN-KEYWORD,hilton
-DOMAIN-SUFFIX,accor.com
-DOMAIN-KEYWORD,accor
+;DOMAIN-SUFFIX,accor.com
+;DOMAIN-KEYWORD,accor
 DOMAIN-SUFFIX,wyndhamhotels.com
 DOMAIN-KEYWORD,wyndhamhotels
 
