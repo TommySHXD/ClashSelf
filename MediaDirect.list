@@ -9,12 +9,15 @@ DOMAIN-KEYWORD,wendougee
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-KEYWORD,apnews
 
-# Radio
-DOMAIN-SUFFIX,live.streamtheworld.com
-DOMAIN-SUFFIX,publicradio.org
-DOMAIN-KEYWORD,publicradio
-DOMAIN-SUFFIX,radiobookmark.com
-DOMAIN-KEYWORD,radiobookmark
+# MBP 直连规则
+DOMAIN-SUFFIX,mpbonline.org
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaitechnologies.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cdn77.org
 
 # IHG (洲际酒店)
 DOMAIN-SUFFIX,ihg.com
