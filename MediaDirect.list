@@ -16,9 +16,9 @@ DOMAIN-KEYWORD,publicradio
 DOMAIN-SUFFIX,radiobookmark.com
 DOMAIN-KEYWORD,radiobookmark
 
-#Hotel
+# IHG (洲际酒店)
 DOMAIN-SUFFIX,ihg.com
-DOMAIN-SUFFIX,ihgstatic.com
+DOMAIN-SUFFIX,ihg.siteintercept.qualtrics.com
 DOMAIN-SUFFIX,intercontinental.com
 DOMAIN-SUFFIX,holidayinn.com
 DOMAIN-SUFFIX,crowneplaza.com
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,regenthotels.com
 DOMAIN-SUFFIX,kimptonhotels.com
 DOMAIN-SUFFIX,hotelindigo.com
 
+# Marriott (万豪)
 DOMAIN-SUFFIX,marriott.com
 DOMAIN-SUFFIX,marriott.net
 DOMAIN-SUFFIX,marriottmobile.com
@@ -38,6 +39,7 @@ DOMAIN-SUFFIX,marriottloyalty.com
 DOMAIN-SUFFIX,marriotthotels.com
 DOMAIN-SUFFIX,marriottresorts.com
 
+# Accor (雅高)
 DOMAIN-SUFFIX,accor.com
 DOMAIN-SUFFIX,accorhotels.com
 DOMAIN-SUFFIX,accorhotels.group
@@ -50,9 +52,10 @@ DOMAIN-SUFFIX,ibishotel.com
 DOMAIN-SUFFIX,hotelpullman.com
 DOMAIN-SUFFIX,adagio-city.com
 DOMAIN-SUFFIX,grandmercure.com
-DOMAIN-SUFFIX,hotelSLS.com
+DOMAIN-SUFFIX,hotelsls.com
 DOMAIN-SUFFIX,hotelmama.com
 
+# Hilton (希尔顿)
 DOMAIN-SUFFIX,hilton.com
 DOMAIN-SUFFIX,hiltonworldwide.com
 DOMAIN-SUFFIX,hiltonhotels.com
@@ -64,11 +67,12 @@ DOMAIN-SUFFIX,doubletree.com
 DOMAIN-SUFFIX,embassysuites.com
 DOMAIN-SUFFIX,curiocollection.com
 DOMAIN-SUFFIX,canopybyhilton.com
-DOMAIN-SUFFIX,homewood suites.com
+DOMAIN-SUFFIX,homewoodsuites.com
 DOMAIN-SUFFIX,home2suites.com
 DOMAIN-SUFFIX,temptationresorts.com
 DOMAIN-SUFFIX,hiltonvacations.com
 
+# Hyatt (凯悦)
 DOMAIN-SUFFIX,hyatt.com
 DOMAIN-SUFFIX,hyatthotels.com
 DOMAIN-SUFFIX,hyattrewards.com
@@ -80,7 +84,6 @@ DOMAIN-SUFFIX,hyattregency.com
 DOMAIN-SUFFIX,hyattziva.com
 DOMAIN-SUFFIX,hyattzilara.com
 DOMAIN-SUFFIX,alila.com
-DOMAIN-SUFFIX,joie de vivre.com
 DOMAIN-SUFFIX,thompsonhotels.com
 
 #Dating
