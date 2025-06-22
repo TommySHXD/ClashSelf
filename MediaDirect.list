@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,wendougee
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-KEYWORD,apnews
 
-# MBP 直连规则
+# MBP Radio直连规则
 DOMAIN-SUFFIX,mpbonline.org
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaitechnologies.com
@@ -18,6 +18,13 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cdn77.org
+
+# Spotify 直连规则
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-KEYWORD,spotify
 
 # IHG (洲际酒店)
 DOMAIN-SUFFIX,ihg.com
