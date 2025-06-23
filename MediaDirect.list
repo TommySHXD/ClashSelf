@@ -105,3 +105,10 @@ DOMAIN-SUFFIX,wyndham.com.cn
 DOMAIN-SUFFIX,wyndham.cn
 DOMAIN-KEYWORD,wyndham
 DOMAIN-KEYWORD,wyndhamrewards
+
+# Grindr 直连规则
+DOMAIN-SUFFIX,grindr.com
+DOMAIN-SUFFIX,grindr.mobi
+DOMAIN-SUFFIX,grindrcdn.com
+DOMAIN-KEYWORD,grindr
+DOMAIN-KEYWORD,grindrcdn
