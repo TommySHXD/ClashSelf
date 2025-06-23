@@ -112,3 +112,18 @@ DOMAIN-SUFFIX,grindr.mobi
 DOMAIN-SUFFIX,grindrcdn.com
 DOMAIN-KEYWORD,grindr
 DOMAIN-KEYWORD,grindrcdn
+
+# Scruff App - 直连规则
+DOMAIN-SUFFIX,scruff.com
+DOMAIN-SUFFIX,scruffapp.com
+DOMAIN-SUFFIX,scruff-a.akamaihd.net
+DOMAIN-KEYWORD,scruff
+DOMAIN-KEYWORD,perrystreet
+
+# Jack’d 直连规则
+DOMAIN-SUFFIX,jackd.com
+DOMAIN-SUFFIX,jackd.mobi
+DOMAIN-SUFFIX,jackdcdn.com
+DOMAIN-SUFFIX,perrystreet.com
+DOMAIN-KEYWORD,jackd
+DOMAIN-KEYWORD,perrystreet
