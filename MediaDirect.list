@@ -7,12 +7,8 @@ DOMAIN-KEYWORD,wendougee
 
 # Garmin 服务直连规则
 DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,connectiq.com
 DOMAIN-SUFFIX,garmincdn.com
-DOMAIN-KEYWORD,garmin
-DOMAIN-SUFFIX,connectiq.com,DIRECT
-DOMAIN-SUFFIX,garmincdn.com,DIRECT
-DOMAIN-SUFFIX,garmin.com,DIRECT
-DOMAIN-SUFFIX,connect.garmin.com,DIRECT
 
 # AP News
 DOMAIN-SUFFIX,apnews.com
