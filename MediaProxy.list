@@ -8,6 +8,6 @@ DOMAIN-SUFFIX,ddys.info
 DOMAIN-SUFFIX,ddys.tv
 
 #SEAGM
-DOMAIN-SUFFIX,seagm.com,Proxy
-DOMAIN-SUFFIX,member.seagm.com,Proxy
-DOMAIN-SUFFIX,cdn.seagm.com,Proxy
+DOMAIN-SUFFIX,seagm.com
+DOMAIN-SUFFIX,member.seagm.com
+DOMAIN-SUFFIX,cdn.seagm.com
